@@ -1,0 +1,97 @@
+2020-12-10 23:02:09:INFO:*********Verify Home page title**************
+2020-12-10 23:02:10:INFO:*****Home page title test is pass******
+2020-12-10 23:02:14:INFO:***** verify Login *****
+2020-12-10 23:02:19:INFO:****Login test is pass***
+2020-12-10 23:17:05:INFO:*********Verify Home page title**************
+2020-12-10 23:17:06:INFO:*****Home page title test is pass******
+2020-12-10 23:17:10:INFO:***** verify Login *****
+2020-12-10 23:17:15:INFO:****Login test is pass***
+2020-12-10 23:35:23:INFO:*********Verify Home page title**************
+2020-12-10 23:35:24:INFO:***** verify Login *****
+2020-12-10 23:35:24:INFO:*****Home page title test is pass******
+2020-12-10 23:35:29:INFO:****Login test is pass***
+2020-12-10 23:47:31:INFO:***** verify Login *****
+2020-12-10 23:47:31:INFO:*********Verify Home page title**************
+2020-12-10 23:47:32:INFO:*****Home page title test is pass******
+2020-12-10 23:47:37:INFO:****Login test is pass***
+2020-12-13 02:26:27:INFO:******Test_002_AddCustomer ******
+2020-12-13 02:26:34:INFO:****Login Successful******
+2020-12-13 02:26:34:INFO:**** Starting add customer test********
+2020-12-13 02:26:36:INFO:****providing Customer info******
+2020-12-13 02:30:25:INFO:******Test_002_AddCustomer ******
+2020-12-13 02:30:32:INFO:****Login Successful******
+2020-12-13 02:30:32:INFO:**** Starting add customer test********
+2020-12-13 02:30:35:INFO:****providing Customer info******
+2020-12-13 02:38:43:INFO:******Test_002_AddCustomer ******
+2020-12-13 02:38:50:INFO:****Login Successful******
+2020-12-13 02:38:50:INFO:**** Starting add customer test********
+2020-12-13 02:38:52:INFO:****providing Customer info******
+2020-12-13 02:41:01:INFO:******Test_002_AddCustomer ******
+2020-12-13 02:41:10:INFO:****Login Successful******
+2020-12-13 02:41:10:INFO:**** Starting add customer test********
+2020-12-13 02:41:12:INFO:****providing Customer info******
+2020-12-13 02:57:10:INFO:******Test_002_AddCustomer ******
+2020-12-13 02:57:18:INFO:****Login Successful******
+2020-12-13 02:57:18:INFO:**** Starting add customer test********
+2020-12-13 02:58:24:INFO:******Test_002_AddCustomer ******
+2020-12-13 02:58:32:INFO:****Login Successful******
+2020-12-13 02:58:32:INFO:**** Starting add customer test********
+2020-12-13 02:58:35:INFO:****providing Customer info******
+2020-12-13 03:00:25:INFO:******Test_002_AddCustomer ******
+2020-12-13 03:00:33:INFO:****Login Successful******
+2020-12-13 03:00:33:INFO:**** Starting add customer test********
+2020-12-13 03:02:03:INFO:******Test_002_AddCustomer ******
+2020-12-13 03:02:11:INFO:****Login Successful******
+2020-12-13 03:02:11:INFO:**** Starting add customer test********
+2020-12-13 03:02:16:INFO:****providing Customer info******
+2020-12-13 03:03:28:INFO:******Test_002_AddCustomer ******
+2020-12-13 03:03:36:INFO:****Login Successful******
+2020-12-13 03:03:36:INFO:**** Starting add customer test********
+2020-12-13 03:03:41:INFO:****providing Customer info******
+2020-12-13 03:04:38:INFO:******Test_002_AddCustomer ******
+2020-12-13 03:04:45:INFO:****Login Successful******
+2020-12-13 03:04:45:INFO:**** Starting add customer test********
+2020-12-13 03:04:49:INFO:****providing Customer info******
+2020-12-13 03:05:53:INFO:******Test_002_AddCustomer ******
+2020-12-13 03:06:00:INFO:****Login Successful******
+2020-12-13 03:06:00:INFO:**** Starting add customer test********
+2020-12-13 03:06:06:INFO:****providing Customer info******
+2020-12-13 03:08:10:INFO:******Test_002_AddCustomer ******
+2020-12-13 03:08:18:INFO:****Login Successful******
+2020-12-13 03:08:18:INFO:**** Starting add customer test********
+2020-12-13 03:08:23:INFO:****providing Customer info******
+2020-12-13 03:10:18:INFO:******Test_002_AddCustomer ******
+2020-12-13 03:10:26:INFO:****Login Successful******
+2020-12-13 03:10:26:INFO:**** Starting add customer test********
+2020-12-13 03:11:27:INFO:******Test_002_AddCustomer ******
+2020-12-13 03:11:34:INFO:****Login Successful******
+2020-12-13 03:11:34:INFO:**** Starting add customer test********
+2020-12-13 03:11:39:INFO:****providing Customer info******
+2020-12-13 03:13:31:INFO:******Test_002_AddCustomer ******
+2020-12-13 03:13:39:INFO:****Login Successful******
+2020-12-13 03:13:39:INFO:**** Starting add customer test********
+2020-12-13 03:13:43:INFO:****providing Customer info******
+2020-12-13 03:18:43:INFO:******Test_002_AddCustomer ******
+2020-12-13 03:18:50:INFO:****Login Successful******
+2020-12-13 03:18:50:INFO:**** Starting add customer test********
+2020-12-13 03:18:55:INFO:****providing Customer info******
+2020-12-13 03:23:27:INFO:******Test_002_AddCustomer ******
+2020-12-13 03:23:34:INFO:****Login Successful******
+2020-12-13 03:23:34:INFO:**** Starting add customer test********
+2020-12-13 03:23:39:INFO:****providing Customer info******
+2020-12-13 14:19:07:INFO:*********Verify Home page title**************
+2020-12-13 14:19:08:INFO:*****Home page title test is pass******
+2020-12-13 14:19:12:INFO:***** verify Login *****
+2020-12-13 14:19:17:INFO:****Login test is pass***
+2020-12-13 14:19:21:INFO:******Test_002_AddCustomer ******
+2020-12-13 14:19:28:INFO:****Login Successful******
+2020-12-13 14:19:28:INFO:**** Starting add customer test********
+2020-12-13 14:19:32:INFO:****providing Customer info******
+2020-12-13 14:19:55:INFO:*********Verify Home page title**************
+2020-12-13 14:19:56:INFO:*****Home page title test is pass******
+2020-12-13 14:20:00:INFO:***** verify Login *****
+2020-12-13 14:20:04:INFO:****Login test is pass***
+2020-12-13 14:20:08:INFO:******Test_002_AddCustomer ******
+2020-12-13 14:20:14:INFO:****Login Successful******
+2020-12-13 14:20:14:INFO:**** Starting add customer test********
+2020-12-13 14:20:19:INFO:****providing Customer info******
